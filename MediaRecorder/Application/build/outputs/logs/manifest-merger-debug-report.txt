@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:20:1-57:12
+	package
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:22:11-54
+	android:versionName
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:24:5-30
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:21:11-57
+	android:versionCode
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:23:5-28
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:20:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:30:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:31:5-70
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:31:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:32:5-65
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:32:22-62
+uses-feature#android.hardware.camera
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:33:19-57
+application
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:35:5-55:19
+MERGED from [com.android.support:support-v13:26.1.0] /home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/yatish/.android/build-cache/c96b51819742cae664b3c822df698481b3042f8c/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yatish/.android/build-cache/f86f0506f4a83bf252cd83cba75e14dcda5f4f83/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yatish/.android/build-cache/509ec1a9c0b944cb6e29e44beaa816722e967cae/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yatish/.android/build-cache/db454b8bb1d830c2986775744cd87eb76984692c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yatish/.android/build-cache/f5b83a5283068909a29837f7857b902fd79fe24f/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yatish/.android/build-cache/d67b884c67a4b7b4484af9d335882d526b2dca55/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yatish/.android/build-cache/9eff272a729dfea0211cd5199100af226b8b6ef1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yatish/.android/build-cache/666452901abe4dd3910d439135a06f849a6a7b11/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:39:9-41
+	android:fullBackupContent
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:37:9-41
+	tools:ignore
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:41:9-48
+	android:allowBackup
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:38:9-45
+	android:theme
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:40:9-40
+activity#com.example.android.mediarecorder.MainActivity
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:45:9-54:20
+	android:screenOrientation
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:48:13-50
+	android:label
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:46:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:26.1.0] /home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/yatish/.android/build-cache/c96b51819742cae664b3c822df698481b3042f8c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/yatish/.android/build-cache/f86f0506f4a83bf252cd83cba75e14dcda5f4f83/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yatish/.android/build-cache/509ec1a9c0b944cb6e29e44beaa816722e967cae/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yatish/.android/build-cache/db454b8bb1d830c2986775744cd87eb76984692c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yatish/.android/build-cache/f5b83a5283068909a29837f7857b902fd79fe24f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yatish/.android/build-cache/d67b884c67a4b7b4484af9d335882d526b2dca55/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yatish/.android/build-cache/9eff272a729dfea0211cd5199100af226b8b6ef1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/yatish/.android/build-cache/666452901abe4dd3910d439135a06f849a6a7b11/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+		INJECTED from /media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaRecorder/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/yatish/.android/build-cache/c96b51819742cae664b3c822df698481b3042f8c/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yatish/.android/build-cache/f86f0506f4a83bf252cd83cba75e14dcda5f4f83/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/yatish/.android/build-cache/509ec1a9c0b944cb6e29e44beaa816722e967cae/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/yatish/.android/build-cache/db454b8bb1d830c2986775744cd87eb76984692c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/yatish/.android/build-cache/f5b83a5283068909a29837f7857b902fd79fe24f/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/yatish/.android/build-cache/d67b884c67a4b7b4484af9d335882d526b2dca55/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/yatish/.android/build-cache/9eff272a729dfea0211cd5199100af226b8b6ef1/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yatish/.android/build-cache/666452901abe4dd3910d439135a06f849a6a7b11/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yatish/.android/build-cache/666452901abe4dd3910d439135a06f849a6a7b11/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/yatish/.android/build-cache/666452901abe4dd3910d439135a06f849a6a7b11/output/AndroidManifest.xml:26:13-58

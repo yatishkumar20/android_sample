@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="pref_units_options">
+        <item>@string/pref_ringtone_silent</item>
+        <item>@string/pref_title_vibrate</item>
+    </string-array>
+
+    <string-array name="pref_units_values">
+        <item>@string/pref_ringtone_silent</item>
+        <item>@string/pref_ringtone_silent</item>
+    </string-array>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3"
+    android:orientation="vertical"
+    tools:context="com.mybusiness.MyBusiness">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/kaju" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="25dp"
+        android:paddingBottom="25dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Contact Details"/>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:drawableStart="@drawable/location"
+                android:drawableLeft="@drawable/location"
+                android:layout_marginLeft="10dp"
+                android:drawablePadding="10dp"
+                android:layout_marginTop="10dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:text="Indian Sweets,2nd Main, Mejastic,Bangalore, 560000"/>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:drawableStart="@drawable/phone"
+                android:drawableLeft="@drawable/phone"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="10dp"
+                android:text="080 - 11111111"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:text="Opening Hours : 9:00AM to 9:00PM"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="18sp"
+                android:layout_marginTop="15dp"
+                android:text="Indian Sweets is very famous sweets shop in bangalore.Barfi is a sweet, made from milk solids (khoya) or condensed milk and other ingredients like ground cashews or pistachios. Some barfi use various flours such as besan (gram flour). Barfi may be flavored with pastes or pieces of fruits such as mango, banana, berries, coconut.."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
+
+
+
+

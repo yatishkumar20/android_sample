@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

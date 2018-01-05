@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadPoolSample</string>
+    <string name="app_name_1">ThreadPoolSample 1</string>
+    <string name="app_name_2">ThreadPoolSample 2</string>
+</resources>

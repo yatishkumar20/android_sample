@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_skip_previous_white_24dp.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_skip_previous_white_24dp.png"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_play_arrow_white_24dp.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_media_with_play.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_media_with_play.png"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_media_with_pause.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_media_with_pause.png"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_skip_next_white_24dp.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_skip_next_white_24dp.png"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_stat_image_audiotrack.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_stat_image_audiotrack.png"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pause_white_24dp.png",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/src/main/res/drawable-xxhdpi/ic_pause_white_24dp.png"
+    }
+]

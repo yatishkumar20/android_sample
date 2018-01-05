@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/834d2817786ddb40c9a0ef517715e6b7d1cef1e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0902b0f0d32a79c9293445fc6176d7c3e4641121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd509ae3cfd56e31bf7243e5d1adc0e05d7e29a4">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b0ea75cd36aad7f9e70a192118e549e6aa01536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05afdde9f7ba8e8b7b0c011a2e6eebebcabc66d7/classes.dex" />
+    </item>
+
+</items>

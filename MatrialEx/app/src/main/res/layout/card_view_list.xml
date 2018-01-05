@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        card_view:cardCornerRadius="2dp"
+        card_view:contentPadding="10dp"
+        card_view:cardElevation="5dp">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv_img"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_margin="10dp"
+                android:src="@mipmap/ic_launcher_round"/>
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:elevation="4dp"
+                android:background="@drawable/myrect"
+                android:layout_margin="12dp"
+                android:textSize="15sp"
+                android:layout_toRightOf="@id/iv_img"/>
+
+            <TextView
+                android:id="@+id/tv_addr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Addres"
+                android:textSize="10sp"
+                android:layout_alignLeft="@id/tv_name"
+                android:layout_below="@id/tv_name"/>
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

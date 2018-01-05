@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    }
+]

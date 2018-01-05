@@ -1,0 +1,7 @@
+#Wed Dec 20 13:06:53 IST 2017
+base.0=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b0ea75cd36aad7f9e70a192118e549e6aa01536
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05afdde9f7ba8e8b7b0c011a2e6eebebcabc66d7/classes.dex
+base.1=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05afdde9f7ba8e8b7b0c011a2e6eebebcabc66d7
+file.0=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b0ea75cd36aad7f9e70a192118e549e6aa01536/classes.dex

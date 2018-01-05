@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/e9f977537a941ba4980877b1aad85abdaa28373b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13e56f7a0a4329ae5f659eff17756c039fac6deb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/666452901abe4dd3910d439135a06f849a6a7b11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_929e5b90ee63bef144b891846de0a2c8e20d6d4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_6001273df244c30a95d683f11a8e968b23def1f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/faa1fcdcc133f1c24d1b7455f5fb3a472db06d4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e16af68cd8a46556eb4d2679617e4bd589b44fa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/ffe5cd3b7f9adb554d8020385b7666d8330ee703/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39b8e573d8381ae8ce31cee375f57edd1e73f3a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/f5b83a5283068909a29837f7857b902fd79fe24f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_853a7bd6ab87c3d1580674a9fa3e019d844f5b4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/4782a349f50bd97eb1c4da8ce69fe30874e22ca8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c81c04e938152e8825cfa9ab97e8dd54ef34d0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_8d3d0e473220e8bafe54c387d5bb434207005876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_91f81dd166220a6573c0258ee262324799f1e3aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/c96b51819742cae664b3c822df698481b3042f8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1562a92d29b3871fbb57bb6c269c85d34e4811b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19f2bea4b6ede4e676bf640ad01dd2f85923da08">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21f5620b23f636ea85cb063d9b76a033e67bf705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cf551ff4f1ca38bb2c7101ec807f15b5d15781f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/509ec1a9c0b944cb6e29e44beaa816722e967cae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34e69f7844bed4bdcd62ca1afbc09031a8025d0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/f86f0506f4a83bf252cd83cba75e14dcda5f4f83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_331c1b1b537ab17a3a548c59908576eeede59db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/9eff272a729dfea0211cd5199100af226b8b6ef1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8f6baf05aa1df84dfeae5ea335528807d3c2e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/47be5dd0fbac47ddd7773ca04036195acfde4a0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b71aaf5d924ae8d5e9dfa05dc63cda09d15122f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/d67b884c67a4b7b4484af9d335882d526b2dca55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c6ec9148ca9ddfa48abab884d642463a6ffea68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7f394a6795743059d5708a54576f025ed93bb65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yatish/.android/build-cache/db454b8bb1d830c2986775744cd87eb76984692c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94b220f8066694e5425992e1cd395e02b96cdced/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Nov 07 14:11:50 IST 2017
+base.0=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cf551ff4f1ca38bb2c7101ec807f15b5d15781f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21f5620b23f636ea85cb063d9b76a033e67bf705/classes.dex
+base.1=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21f5620b23f636ea85cb063d9b76a033e67bf705
+file.0=/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/MediaBrowserService/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cf551ff4f1ca38bb2c7101ec807f15b5d15781f/classes.dex

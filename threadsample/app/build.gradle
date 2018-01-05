@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.example.android.threadsample"
+        minSdkVersion 11
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+        compile fileTree(dir: 'libs', include: ['*.jar'])
+
+        compile 'com.android.support:appcompat-v7:23.4.0'
+        compile 'com.android.support:support-v4:23.4.0'
+        compile 'com.android.support:design:23.4.0'
+        compile 'org.apache.httpcomponents:httpcore:4.4.1'
+        compile 'org.apache.httpcomponents:httpclient:4.5'
+    }
+}

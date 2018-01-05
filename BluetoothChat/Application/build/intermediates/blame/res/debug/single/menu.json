@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/media/yatish/e94c8f83-8277-41a9-aa10-07b0360a8f5c/Yatish/practice/BluetoothChat/Application/src/main/res/menu/main.xml"
+    }
+]

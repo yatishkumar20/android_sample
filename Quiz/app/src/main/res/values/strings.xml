@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="quest_4">4. Who is the only Indian bowler to take 10 wickets in an innings</string>
+    <string name="quest_4_1">Anil Kumble</string>
+    <string name="quest_4_2">Zaheer Khan</string>
+    <string name="quest_3">3. Which year India won T20 Cricket World Cup</string>
+    <string name="quest_2">2. In Which of the following years India won ODI Cricket World Cup</string>
+    <string name="quest_2_1">1983</string>
+    <string name="quest_2_2">1999</string>
+    <string name="quest_2_3">2007</string>
+    <string name="quest_2_4">2011</string>
+    <string name="quest_1">1. India\'s first win in a World Cup match was against</string>
+    <string name="quest_1_1">Sri Lanka</string>
+    <string name="quest_1_2">West Indies</string>
+    <string name="quest_1_3">England</string>
+    <string name="quest_1_4">Pakistan</string>
+
+
+</resources>
